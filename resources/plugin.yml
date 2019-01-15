@@ -1,0 +1,17 @@
+name: FabledKingdoms
+authors: [Hex_27, DiamondDagger, TheCreeperCow]
+version: 1.2.3
+api-version: 1.13
+load: POSTWORLD
+softdepend: [WorldGuard, WorldEdit, ScoreboardStats, Dynmap, PlaceholderAPI, MVdWPlaceholderAPI, ActionBarAPI, GriefPrevention, TitleAPI, Citizens, Citizens2, Multiworld, Multiverse-Core, Vault, ItemBox]
+description: Conquer lands with a mighty Kingdom!
+main: com.songoda.kingdoms.main.Kingdoms
+commands:
+   k:
+    description: opens help
+   kingdom:
+    description: opens help
+   kingdoms:
+    description: opens help
+   krpforplayer:
+    description: Give rp to a players kingdom through console

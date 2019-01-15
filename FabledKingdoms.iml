@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/EpicAddon-1.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.spigotmc:spigot:1.13.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net.milkbowl.vault:Vault:1.7.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sk89q:worldedit:7.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.connorlinfoot:actionbarapi:1.5.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.connorlinfoot:titleapi:1.7.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.dynmap:dynmap:3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.sk89q:worldguard:7.0.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net:citizensnpcs:2.0.16" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: me.ryanhamshire:GriefPrevention:LATEST" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org:itembox:1.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: be.maximvdw:placeholderapi:2.5.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: me.clip:placeholderapi:2.5.1" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.bekvon.bukkit:residence:4.7.1.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.github.games647:scoreboardstats:0.10.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: es.pollitoyeye:Bikes:8.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.earth2me:essentials:LATEST" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: ru.tehkode:permissions:1.23.4" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.gmail.filoghost.holographicdisplays:holographicdisplays-api:2.3.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: at.pavlov:cannons:2.5.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.18.2" level="project" />
+  </component>
+</module>

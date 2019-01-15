@@ -1,0 +1,8 @@
+/.idea
+/.settings
+/local
+Kingdoms.iml
+/src/META-INF/MANIFEST.MF
+target/
+
+dependency-reduced-pom\.xml
